@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color:#C0C0C0; 
+	height: 100px;
+}
+h1{
+	text-align: center;
+}
+li{
+	list-style-type: none;
+}
+main{
+	width: 1200px;
+	margin:0 auto;
+}
+.sort-genre-ul li{
+display: inline;
+}
+
+.sort-genre li{
+	display: inline;
+}
+}
+.books{
+
+	background: #F1F1F1;
+	font-size: 20px;
+	float:right;
+
+}
+.books-items{
+
+	padding: 20px;
+	margin-top: 50px;
+	margin-left: 30px;
+	background: #F1F1F1;
+	align-content: center;
+	text-align: center;
+ 
+}
+.first{
+	font-weight:bold;
+}
